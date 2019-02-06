@@ -13,11 +13,11 @@ This code is tested by Matlab R2017a.
 ```
 gmm_em_demo
 ```
-<p align="center"><img width="65%" src="gmm.gif" /></p>
+<p align="center"><img width="80%" src="gmm.gif" /></p>
 
 ### Run the GMM demo with Variational Inference algorithm
 
 ```
 gmm_vb_demo
 ```
-<p align="center"><img width="65%" src="gmm_vb.gif" /></p>
+<p align="center"><img width="80%" src="gmm_vb.gif" /></p>
