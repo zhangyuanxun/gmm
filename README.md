@@ -18,7 +18,6 @@ gmm_em_demo
 ### Run the GMM demo with Variational Inference algorithm
 
 ```
-load datasets/dataset4
-learn_perceptron(neg_examples_nobias,pos_examples_nobias,w_init,w_gen_feas)
+gmm_vb_demo
 ```
 <p align="center"><img width="65%" src="gmm_vb.gif" /></p>
